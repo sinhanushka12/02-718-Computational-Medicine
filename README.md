@@ -1,2 +1,2 @@
-# 02-718-Final-Project
-Final Project for the course Computational Medicine taken at CMU
+# 02-718
+Course 02718 Computational Medicine taken at CMU
